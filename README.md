@@ -20,7 +20,7 @@ limitations under the License.
 
 # sapx
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Add a constant to each element in a single-precision floating-point strided array.
 
@@ -181,8 +181,8 @@ console.log( x );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dapx`][@stdlib/blas/ext/base/dapx]: add a constant to each element in a double-precision floating-point strided array.
--   [`@stdlib/blas/ext/base/gapx`][@stdlib/blas/ext/base/gapx]: add a constant to each element in a strided array.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dapx`][@stdlib/blas/ext/base/dapx]</span><span class="delimiter">: </span><span class="description">add a constant to each element in a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gapx`][@stdlib/blas/ext/base/gapx]</span><span class="delimiter">: </span><span class="description">add a constant to each element in a strided array.</span>
 
 </section>
 
@@ -233,8 +233,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-sapx/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-sapx?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-sapx.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-sapx/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
