@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/blas-ext-base-sapx",
+  "version": "0.0.0",
+  "description": "Add a constant to each element in a single-precision floating-point strided array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/blas-ext-base-sapx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "blas",
+    "extended",
+    "add",
+    "addition",
+    "scale",
+    "translate",
+    "strided",
+    "array",
+    "ndarray",
+    "float32",
+    "float",
+    "single",
+    "float32array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
