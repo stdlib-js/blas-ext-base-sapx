@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sapx from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapx@esm/index.mjs';
+import sapx from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapx@v0.2.2-esm/index.mjs';
 ```
 
 #### sapx( N, alpha, x, stride )
@@ -148,7 +148,7 @@ sapx.ndarray( 3, 5.0, x, 1, x.length-3 );
 
 var uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform' ).factory;
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import sapx from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapx@esm/index.mjs';
+import sapx from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sapx@v0.2.2-esm/index.mjs';
 
 var x = filledarrayBy( 10, 'float32', uniform( -100.0, 100.0 ) );
 console.log( x );
