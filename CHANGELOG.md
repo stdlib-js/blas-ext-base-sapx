@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-18)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`975f9f6`](https://github.com/stdlib-js/stdlib/commit/975f9f62eb9925e728ee997cb5800721679a3c02) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/sapx` [(#9176)](https://github.com/stdlib-js/stdlib/pull/9176) _(by Samarth Kolarkar)_
 -   [`ef11834`](https://github.com/stdlib-js/stdlib/commit/ef1183420e6bba80849c12f838aa7eb23c6d7635) - **docs:** update related packages sections [(#5048)](https://github.com/stdlib-js/stdlib/pull/5048) _(by stdlib-bot)_
 -   [`2ea4452`](https://github.com/stdlib-js/stdlib/commit/2ea4452fa0f63499be526f392fa7fdd647d1a9b5) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sapx` [(#4696)](https://github.com/stdlib-js/stdlib/pull/4696) _(by Muhammad Haris, Athan Reines)_
